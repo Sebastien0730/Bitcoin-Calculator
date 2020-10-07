@@ -1,5 +1,5 @@
 # Bitcoin-Calculator
-
+Made for McWiCS Hackathon for the sponsor challenge of Catallaxy. At the same hackathon, my main project was BoneAppleTea found here: https://github.com/phong1233/BoneAppleTea
 ## Inspiration
 Cryptocurrency has gained a lot of attention in recent years and it has become increasingly important to ensure the security of transactions. This, among other reasons, lead to the making of this project as it would enhance my understanding of the subject matter and provides a useful tool to estimate the hashrate of a block in terms of its difficulty. Thanks to Catallaxy, this Bitcoin calculator provides an opportunity to explore the world of cryptocurrencies without requiring in-depth knowledge about the subject matter. It sparks interest to further immerse oneself in the bitcoin world.
 ## What it does
